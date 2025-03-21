@@ -113,7 +113,7 @@ class _Homepage1State extends State<Homepage1> {
           // App Bar with Logo and User Info
           Container(
             padding: const EdgeInsets.only(top: 40, left: 16, right: 16, bottom: 10),
-            color: const Color(0xFF3F51B5),
+            color: Colors.blue,
             child: Column(
               children: [
                 Row(

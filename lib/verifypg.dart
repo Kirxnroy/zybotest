@@ -163,7 +163,7 @@ class _OTPVerificationScreenState extends State<OTPVerificationScreen> {
                   child: ElevatedButton(
                     onPressed: _verifyOTP,
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color(0xFF4050FF),
+                      backgroundColor: Colors.blue,
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(8),
                       ),

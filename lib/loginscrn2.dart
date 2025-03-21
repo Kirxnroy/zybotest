@@ -125,7 +125,7 @@ class _PhoneOnboardingScreenState extends State<PhoneOnboardingScreen> {
                       );
                     },
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color(0xFF4050FF),
+                      backgroundColor: Colors.blue,
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(8)),
                     ),

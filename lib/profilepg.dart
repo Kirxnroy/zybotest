@@ -14,7 +14,7 @@ class ProfilePage extends StatelessWidget {
             padding:
                 const EdgeInsets.only(top: 50, left: 16, right: 16, bottom: 80),
             decoration: const BoxDecoration(
-              color: Color(0xFF4169E1), // Royal blue color
+              color: Colors.blue,
               borderRadius: BorderRadius.only(
                 bottomLeft: Radius.circular(0),
                 bottomRight: Radius.circular(0),
